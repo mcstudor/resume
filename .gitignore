@@ -2,4 +2,4 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/PersonalSite/.vs/PersonalSite/v16
+**/.vs
