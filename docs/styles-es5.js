@@ -1,15 +1,20 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([["styles"], {
   /***/
-  "./node_modules/@angular-devkit/build-angular/src/angular-cli-files/plugins/raw-css-loader.js!./node_modules/postcss-loader/src/index.js?!./src/styles.css":
-  /*!*****************************************************************************************************************************************************************!*\
-    !*** ./node_modules/@angular-devkit/build-angular/src/angular-cli-files/plugins/raw-css-loader.js!./node_modules/postcss-loader/src??embedded!./src/styles.css ***!
-    \*****************************************************************************************************************************************************************/
+  "./node_modules/@angular-devkit/build-angular/src/angular-cli-files/plugins/raw-css-loader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/lib/loader.js?!./src/styles.scss":
+  /*!**********************************************************************************************************************************************************************************************************************!*\
+    !*** ./node_modules/@angular-devkit/build-angular/src/angular-cli-files/plugins/raw-css-loader.js!./node_modules/postcss-loader/src??embedded!./node_modules/sass-loader/lib/loader.js??ref--15-3!./src/styles.scss ***!
+    \**********************************************************************************************************************************************************************************************************************/
 
   /*! no static exports found */
 
   /***/
+<<<<<<< HEAD
   function node_modulesAngularDevkitBuildAngularSrcAngularCliFilesPluginsRawCssLoaderJsNode_modulesPostcssLoaderSrcIndexJsSrcStylesCss(module, exports) {
     module.exports = [[module.i, "/* You can add global styles to this file, and also import other style files */\r\n\r\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9zdHlsZXMuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLDhFQUE4RSIsImZpbGUiOiJzcmMvc3R5bGVzLmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi8qIFlvdSBjYW4gYWRkIGdsb2JhbCBzdHlsZXMgdG8gdGhpcyBmaWxlLCBhbmQgYWxzbyBpbXBvcnQgb3RoZXIgc3R5bGUgZmlsZXMgKi9cclxuIl19 */", '', '']];
+=======
+  function node_modulesAngularDevkitBuildAngularSrcAngularCliFilesPluginsRawCssLoaderJsNode_modulesPostcssLoaderSrcIndexJsNode_modulesSassLoaderLibLoaderJsSrcStylesScss(module, exports) {
+    module.exports = [[module.i, "/* RGB */\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9DOlxccmVwb3NcXHBlcnNvbmFsLXNpdGVcXHBlcnNvbmFsLXNpdGUvc3JjXFxzdHlsZXMuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxRQUFBIiwiZmlsZSI6InNyYy9zdHlsZXMuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIi8qIFJHQiAqL1xuJGNvbG9yMTogcmdiYSg1MSwgMjQsIDUwLCAxKTtcbiRjb2xvcjI6IHJnYmEoMTA1LCA3NywgMTE3LCAxKTtcbiRjb2xvcjM6IHJnYmEoNjEsIDUyLCAxMzksIDEpO1xuJGNvbG9yNDogcmdiYSgxMTgsIDEyMCwgMjM3LCAxKTtcbiRjb2xvcjU6IHJnYmEoMjQ3LCAxODQsIDEsIDEpOyJdfQ== */", '', '']];
+>>>>>>> develop
     /***/
   },
 
@@ -310,18 +315,18 @@
   },
 
   /***/
-  "./src/styles.css":
-  /*!************************!*\
-    !*** ./src/styles.css ***!
-    \************************/
+  "./src/styles.scss":
+  /*!*************************!*\
+    !*** ./src/styles.scss ***!
+    \*************************/
 
   /*! no static exports found */
 
   /***/
-  function srcStylesCss(module, exports, __webpack_require__) {
+  function srcStylesScss(module, exports, __webpack_require__) {
     var content = __webpack_require__(
-    /*! !../node_modules/@angular-devkit/build-angular/src/angular-cli-files/plugins/raw-css-loader.js!../node_modules/postcss-loader/src??embedded!./styles.css */
-    "./node_modules/@angular-devkit/build-angular/src/angular-cli-files/plugins/raw-css-loader.js!./node_modules/postcss-loader/src/index.js?!./src/styles.css");
+    /*! !../node_modules/@angular-devkit/build-angular/src/angular-cli-files/plugins/raw-css-loader.js!../node_modules/postcss-loader/src??embedded!../node_modules/sass-loader/lib/loader.js??ref--15-3!./styles.scss */
+    "./node_modules/@angular-devkit/build-angular/src/angular-cli-files/plugins/raw-css-loader.js!./node_modules/postcss-loader/src/index.js?!./node_modules/sass-loader/lib/loader.js?!./src/styles.scss");
 
     if (typeof content === 'string') {
       content = [[module.i, content, '']];
@@ -344,17 +349,22 @@
 
   /***/
   3:
-  /*!******************************!*\
-    !*** multi ./src/styles.css ***!
-    \******************************/
+  /*!*******************************!*\
+    !*** multi ./src/styles.scss ***!
+    \*******************************/
 
   /*! no static exports found */
 
   /***/
   function _(module, exports, __webpack_require__) {
     module.exports = __webpack_require__(
+<<<<<<< HEAD
     /*! C:\repos\personal-site\resume-app\src\styles.css */
     "./src/styles.css");
+=======
+    /*! C:\repos\personal-site\personal-site\src\styles.scss */
+    "./src/styles.scss");
+>>>>>>> develop
     /***/
   }
 }, [[3, "runtime"]]]);

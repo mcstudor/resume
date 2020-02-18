@@ -47,7 +47,11 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     /* harmony default export */
 
 
+<<<<<<< HEAD
     __webpack_exports__["default"] = "<h1>Welcome to my site!</h1>\r\n<h2>It is currently under construction</h2>\r\n<h2>For now, checkout my <a href=\"https://github.com/mcstudor\">GitHub</a></h2> ";
+=======
+    __webpack_exports__["default"] = "<h1>Welcome to my site!</h1>\n<h2>It is currently under construction</h2>\n<h2>For now, checkout my <a href=\"https://github.com/mcstudor\">GitHub</a></h2> ";
+>>>>>>> develop
     /***/
   },
 
@@ -661,22 +665,26 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
   },
 
   /***/
-  "./src/app/app.component.css":
-  /*!***********************************!*\
-    !*** ./src/app/app.component.css ***!
-    \***********************************/
+  "./src/app/app.component.scss":
+  /*!************************************!*\
+    !*** ./src/app/app.component.scss ***!
+    \************************************/
 
   /*! exports provided: default */
 
   /***/
-  function srcAppAppComponentCss(module, __webpack_exports__, __webpack_require__) {
+  function srcAppAppComponentScss(module, __webpack_exports__, __webpack_require__) {
     "use strict";
 
     __webpack_require__.r(__webpack_exports__);
     /* harmony default export */
 
 
+<<<<<<< HEAD
     __webpack_exports__["default"] = "h1, h2, h3 {\r\n    text-align: center;\r\n}\r\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvYXBwLmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7SUFDSSxrQkFBa0I7QUFDdEIiLCJmaWxlIjoic3JjL2FwcC9hcHAuY29tcG9uZW50LmNzcyIsInNvdXJjZXNDb250ZW50IjpbImgxLCBoMiwgaDMge1xyXG4gICAgdGV4dC1hbGlnbjogY2VudGVyO1xyXG59Il19 */";
+=======
+    __webpack_exports__["default"] = "h1, h2, h3 {\n  text-align: center;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvQzpcXHJlcG9zXFxwZXJzb25hbC1zaXRlXFxwZXJzb25hbC1zaXRlL3NyY1xcYXBwXFxhcHAuY29tcG9uZW50LnNjc3MiLCJzcmMvYXBwL2FwcC5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLGtCQUFBO0FDQ0oiLCJmaWxlIjoic3JjL2FwcC9hcHAuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyJoMSwgaDIsIGgzIHtcclxuICAgIHRleHQtYWxpZ246IGNlbnRlcjtcclxufSIsImgxLCBoMiwgaDMge1xuICB0ZXh0LWFsaWduOiBjZW50ZXI7XG59Il19 */";
+>>>>>>> develop
     /***/
   },
 
@@ -715,7 +723,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     var AppComponent = function AppComponent() {
       _classCallCheck(this, AppComponent);
 
-      this.title = 'resume-app';
+      this.title = 'personal-site';
     };
 
     AppComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Component"])({
@@ -724,8 +732,8 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       /*! raw-loader!./app.component.html */
       "./node_modules/raw-loader/dist/cjs.js!./src/app/app.component.html")).default,
       styles: [tslib__WEBPACK_IMPORTED_MODULE_0__["__importDefault"](__webpack_require__(
-      /*! ./app.component.css */
-      "./src/app/app.component.css")).default]
+      /*! ./app.component.scss */
+      "./src/app/app.component.scss")).default]
     })], AppComponent);
     /***/
   },
@@ -902,7 +910,11 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
   /***/
   function _(module, exports, __webpack_require__) {
     module.exports = __webpack_require__(
+<<<<<<< HEAD
     /*! C:\repos\personal-site\resume-app\src\main.ts */
+=======
+    /*! C:\repos\personal-site\personal-site\src\main.ts */
+>>>>>>> develop
     "./src/main.ts");
     /***/
   }
