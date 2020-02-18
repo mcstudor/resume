@@ -3,9 +3,13 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "resume-app": {
+    "personal-site": {
       "projectType": "application",
-      "schematics": {},
+      "schematics": {
+        "@schematics/angular:component": {
+          "style": "scss"
+        }
+      },
       "root": "",
       "sourceRoot": "src",
       "prefix": "app",
@@ -24,7 +28,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.scss"
             ],
             "scripts": []
           },
@@ -63,18 +67,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "resume-app:build"
+            "browserTarget": "personal-site:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "resume-app:build:production"
+              "browserTarget": "personal-site:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "resume-app:build"
+            "browserTarget": "personal-site:build"
           }
         },
         "test": {
@@ -89,7 +93,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.scss"
             ],
             "scripts": []
           }
@@ -111,15 +115,15 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "e2e/protractor.conf.js",
-            "devServerTarget": "resume-app:serve"
+            "devServerTarget": "personal-site:serve"
           },
           "configurations": {
             "production": {
-              "devServerTarget": "resume-app:serve:production"
+              "devServerTarget": "personal-site:serve:production"
             }
           }
         }
       }
     }},
-  "defaultProject": "resume-app"
+  "defaultProject": "personal-site"
 }
