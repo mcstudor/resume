@@ -32,11 +32,7 @@ webpackEmptyAsyncContext.id = "./$$_lazy_route_resource lazy recursive";
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-<<<<<<< HEAD
 /* harmony default export */ __webpack_exports__["default"] = ("<h1>Welcome to my site!</h1>\r\n<h2>It is currently under construction</h2>\r\n<h2>For now, checkout my <a href=\"https://github.com/mcstudor\">GitHub</a></h2> ");
-=======
-/* harmony default export */ __webpack_exports__["default"] = ("<h1>Welcome to my site!</h1>\n<h2>It is currently under construction</h2>\n<h2>For now, checkout my <a href=\"https://github.com/mcstudor\">GitHub</a></h2> ");
->>>>>>> develop
 
 /***/ }),
 
@@ -308,11 +304,7 @@ AppRoutingModule = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-<<<<<<< HEAD
-/* harmony default export */ __webpack_exports__["default"] = ("h1, h2, h3 {\r\n    text-align: center;\r\n}\r\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvYXBwLmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7SUFDSSxrQkFBa0I7QUFDdEIiLCJmaWxlIjoic3JjL2FwcC9hcHAuY29tcG9uZW50LmNzcyIsInNvdXJjZXNDb250ZW50IjpbImgxLCBoMiwgaDMge1xyXG4gICAgdGV4dC1hbGlnbjogY2VudGVyO1xyXG59Il19 */");
-=======
 /* harmony default export */ __webpack_exports__["default"] = ("h1, h2, h3 {\n  text-align: center;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvQzpcXHJlcG9zXFxwZXJzb25hbC1zaXRlXFxwZXJzb25hbC1zaXRlL3NyY1xcYXBwXFxhcHAuY29tcG9uZW50LnNjc3MiLCJzcmMvYXBwL2FwcC5jb21wb25lbnQuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLGtCQUFBO0FDQ0oiLCJmaWxlIjoic3JjL2FwcC9hcHAuY29tcG9uZW50LnNjc3MiLCJzb3VyY2VzQ29udGVudCI6WyJoMSwgaDIsIGgzIHtcclxuICAgIHRleHQtYWxpZ246IGNlbnRlcjtcclxufSIsImgxLCBoMiwgaDMge1xuICB0ZXh0LWFsaWduOiBjZW50ZXI7XG59Il19 */");
->>>>>>> develop
 
 /***/ }),
 
@@ -452,11 +444,7 @@ Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_2__["platformB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-<<<<<<< HEAD
-module.exports = __webpack_require__(/*! C:\repos\personal-site\resume-app\src\main.ts */"./src/main.ts");
-=======
 module.exports = __webpack_require__(/*! C:\repos\personal-site\personal-site\src\main.ts */"./src/main.ts");
->>>>>>> develop
 
 
 /***/ })

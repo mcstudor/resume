@@ -8,13 +8,8 @@
   /*! no static exports found */
 
   /***/
-<<<<<<< HEAD
-  function node_modulesAngularDevkitBuildAngularSrcAngularCliFilesPluginsRawCssLoaderJsNode_modulesPostcssLoaderSrcIndexJsSrcStylesCss(module, exports) {
-    module.exports = [[module.i, "/* You can add global styles to this file, and also import other style files */\r\n\r\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9zdHlsZXMuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLDhFQUE4RSIsImZpbGUiOiJzcmMvc3R5bGVzLmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi8qIFlvdSBjYW4gYWRkIGdsb2JhbCBzdHlsZXMgdG8gdGhpcyBmaWxlLCBhbmQgYWxzbyBpbXBvcnQgb3RoZXIgc3R5bGUgZmlsZXMgKi9cclxuIl19 */", '', '']];
-=======
   function node_modulesAngularDevkitBuildAngularSrcAngularCliFilesPluginsRawCssLoaderJsNode_modulesPostcssLoaderSrcIndexJsNode_modulesSassLoaderLibLoaderJsSrcStylesScss(module, exports) {
-    module.exports = [[module.i, "/* RGB */\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9DOlxccmVwb3NcXHBlcnNvbmFsLXNpdGVcXHBlcnNvbmFsLXNpdGUvc3JjXFxzdHlsZXMuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxRQUFBIiwiZmlsZSI6InNyYy9zdHlsZXMuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIi8qIFJHQiAqL1xuJGNvbG9yMTogcmdiYSg1MSwgMjQsIDUwLCAxKTtcbiRjb2xvcjI6IHJnYmEoMTA1LCA3NywgMTE3LCAxKTtcbiRjb2xvcjM6IHJnYmEoNjEsIDUyLCAxMzksIDEpO1xuJGNvbG9yNDogcmdiYSgxMTgsIDEyMCwgMjM3LCAxKTtcbiRjb2xvcjU6IHJnYmEoMjQ3LCAxODQsIDEsIDEpOyJdfQ== */", '', '']];
->>>>>>> develop
+    module.exports = [[module.i, "/* RGB */\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9DOlxccmVwb3NcXHBlcnNvbmFsLXNpdGVcXHBlcnNvbmFsLXNpdGUvc3JjXFxzdHlsZXMuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxRQUFBIiwiZmlsZSI6InNyYy9zdHlsZXMuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbIi8qIFJHQiAqL1xyXG4kY2FzdHJvOiByZ2JhKDUxLCAyNCwgNTAsIDEpO1xyXG4kYWZmYWlyOiByZ2JhKDEwNSwgNzcsIDExNywgMSk7XHJcbiRibHVlLWdlbTogcmdiYSg2MSwgNTIsIDEzOSwgMSk7XHJcbiRzbGF0ZS1ibHVlOiByZ2JhKDExOCwgMTIwLCAyMzcsIDEpO1xyXG4kc2VsZWN0aXZlLXllbGxvdzogcmdiYSgyNDcsIDE4NCwgMSwgMSk7Il19 */", '', '']];
     /***/
   },
 
@@ -358,13 +353,8 @@
   /***/
   function _(module, exports, __webpack_require__) {
     module.exports = __webpack_require__(
-<<<<<<< HEAD
-    /*! C:\repos\personal-site\resume-app\src\styles.css */
-    "./src/styles.css");
-=======
     /*! C:\repos\personal-site\personal-site\src\styles.scss */
     "./src/styles.scss");
->>>>>>> develop
     /***/
   }
 }, [[3, "runtime"]]]);
